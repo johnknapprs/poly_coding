@@ -12,7 +12,10 @@ git config --global user.email "knappj2@gmail.com"
 Install Packages in Ubuntu Linux
 
 ```shell
-sudo apt install git curl libssl-dev libreadline-dev zlib1g-dev autoconf bison build-essential libyaml-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev
+sudo apt install zsh git curl libssl-dev libreadline-dev zlib1g-dev autoconf bison build-essential libyaml-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev
+
+# Set zshell to default
+chsh -s $(which zsh)
 ```
 
 Install RBenv
