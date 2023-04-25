@@ -38,10 +38,10 @@ rbenv install -l
 Install Ruby's Latest Version
 
 ```shell
-rbenv install 2.7.6
+rbenv install 3.2.0
 
 # Set Global Version
-rbenv global 2.7.6
+rbenv global 3.2.0
 ```
 
 Basic Data Types
