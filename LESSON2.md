@@ -40,6 +40,9 @@ Install Ruby's Latest Version
 ```shell
 rbenv install 3.2.0
 
+# Check Ruby is Installed
+ruby -v
+
 # Set Global Version
 rbenv global 3.2.0
 ```
